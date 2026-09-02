@@ -2,3 +2,4 @@ Repository: ptest-ce
 Branch: 8.0
 Created: 2026-08-10 10:34:11 UTC
 This file is UNIQUE to ptest-ce branch 8.0
+Upmerge test-1: actual patch will use Merge commit into 8.0 from forked developer branch created with CE upstream 8.0
